@@ -1,4 +1,4 @@
-# Competence guide - development
+# Course map - development
 
 This Reactjs development environment uses the build tool [Vite](https://vitejs.dev) and npm as package manager. You must therefore have [Node.js](https://nodejs.org/en/) installed on your computer in order to run this build.
 
