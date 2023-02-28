@@ -1,0 +1,5 @@
+# local cached files
+__pycache__/
+
+# allots a scratch file
+scratch.py
