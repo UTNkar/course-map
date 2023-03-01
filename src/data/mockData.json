@@ -1,0 +1,49 @@
+{
+    "description":"This is mock development file that mimicks the logic of the Ladok API that will contain information for courses",
+    "applied-mechanics-I": {
+      "id": 1,
+      "course-code": "1TE760",
+      "education-cycle": "First cycle",
+      "main-fields": ["Technology G1F", "Physics G1F"],
+      "established": "2018-03-14",
+      "revised": "2022-10-20",
+      "revised-by": "The Faculty Board of Science and Technology",
+      "applies-from": "Autumn 2023",
+      "entry-requirements": ["algebra-and-geometry", "mechanics-basic-course", "several-variable-calculus"],
+      "opens": ["applied-mechanics-II"],
+      "responsible-department": "Department of Materials Science and Engineering",
+      "description": "Lorem ipsum short Lorem ipsum short Lorem ipsum short Lorem ipsum short Lorem ipsum short Lorem ipsum short",
+      "link": ["https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kKod=1TE760&lasar="]
+    },
+    "mechanics-basic-course": {
+      "id": 2,
+      "course-code": "1TE761",
+      "education-cycle": "First cycle",
+      "main-fields": ["Technology G1F", "Physics G1F"],
+      "established": "2018-03-14",
+      "revised": "2022-10-20",
+      "revised-by": "The Faculty Board of Science and Technology",
+      "applies-from": "Autumn 2023",
+      "entry-requirements": ["algebra-and-geometry"],
+      "opens": ["applied-mechanics-I", "mechanics-II", "electromagnetism-I"],
+      "responsible-department": "Department of Materials Science and Engineering",
+      "description": "Lorem ipsum short Lorem ipsum short Lorem ipsum short Lorem ipsum short Lorem ipsum short Lorem ipsum short",
+      "link": ["https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kKod=1TE760&lasar="]
+    },
+    "electromagnetism-I": {
+      "id": 3,
+      "course-code": "1TE762",
+      "education-cycle": "First cycle",
+      "main-fields": ["Technology G1F", "Physics G1F"],
+      "established": "2018-03-14",
+      "revised": "2022-10-20",
+      "revised-by": "The Faculty Board of Science and Technology",
+      "applies-from": "Autumn 2023",
+      "entry-requirements": ["algebra-and-geometry", "single-variable-calculus", "scientific-computing-I", "mechanics-basic-course", "several-variable-calculus"],
+      "opens": ["electromagnetism-II"],
+      "responsible-department": "Department of Materials Science and Engineering",
+      "description": "Lorem ipsum short Lorem ipsum short Lorem ipsum short Lorem ipsum short Lorem ipsum short Lorem ipsum short",
+      "link": ["https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kKod=1TE760&lasar="]
+    }
+  }
+  
