@@ -1,6 +1,7 @@
 import { useState } from 'react'
 // import './App.css'
 import Course from './components/Course'
+import CourseGrid from './components/CourseGrid';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -8,7 +9,8 @@ function App() {
   return (
     <div className="App">
       <h1>Course map!!🤯🤯</h1>
-      <Course />
+      {/* <Course /> */}
+      <CourseGrid gridHeight={3} gridWidth={1} />
     </div>
   )
 }
